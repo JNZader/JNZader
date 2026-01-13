@@ -101,23 +101,7 @@ Experimentación con agentes de inteligencia artificial.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JNZader&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=JNZader&theme=default&hide_border=true" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=JNZader&theme=github-dark-blue&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JNZader&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JNZader&theme=default&hide_border=true&layout=compact&langs_count=8" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNZader&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
-</picture>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JNZader&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
@@ -140,7 +124,7 @@ Proyectos académicos, certificaciones y experimentos en [JNZader-Vault](https:/
 
 <div align="center">
 
-**Disponible para proyectos de desarrollo backend Java/Spring y full stack Next.js**
+**Abierto a nuevas oportunidades y colaboraciones**
 
 [![Email](https://img.shields.io/badge/Email-jnzader%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jnzader@gmail.com)
 
