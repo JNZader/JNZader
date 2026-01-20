@@ -4,8 +4,6 @@
 
 ### Backend Java Developer | Full Stack Engineer
 
-*20+ años en tecnología • Arquitectura de software • APIs REST de producción*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jnzader)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.javierzader.com/)
 
@@ -38,7 +36,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_4.0-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 </td>
@@ -58,6 +56,17 @@
 <tr>
 <td align="center">
 
+**Data Science & Python**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+</td>
+<td align="center">
+
 **Databases & ORM**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -67,6 +76,8 @@
 ![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td align="center">
 
 **Testing**
@@ -78,8 +89,6 @@
 ![axe-core](https://img.shields.io/badge/axe--core-663399?style=for-the-badge&logo=axe&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td align="center">
 
 **DevOps & CI/CD**
@@ -91,7 +100,9 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </td>
-<td align="center">
+</tr>
+<tr>
+<td align="center" colspan="2">
 
 **Tools & Services**
 
