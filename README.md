@@ -2,7 +2,7 @@
 
 # Javier Norberto Zader
 
-### Backend Java Developer | Full Stack Engineer
+###  Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jnzader)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.javierzader.com/)
