@@ -190,12 +190,23 @@ Construyo herramientas para mejorar la experiencia de desarrollo (DX) y automati
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNZader&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Langs"/>
+<a href="https://github.com/JNZader">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Javier's GitHub Stats" />
+</a>
+<a href="https://github.com/JNZader">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNZader&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Javier's Top Languages" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/JNZader">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNZader&theme=radical&hide_border=true&background=0d1117&ring=0d1117&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=58a6ff" alt="Javier's GitHub Streak" />
+</a>
 
 </div>
 
