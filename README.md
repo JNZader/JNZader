@@ -195,7 +195,7 @@ Construyo herramientas para mejorar la experiencia de desarrollo (DX) y automati
 <div align="center">
 
 <a href="https://github.com/JNZader">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JNZader&theme=radical" alt="Javier's Profile Summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JNZader&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true" alt="Javier's Contribution Graph" width="100%" />
 </a>
 
 <br/>
