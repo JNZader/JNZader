@@ -202,13 +202,10 @@ Construyo herramientas para mejorar la experiencia de desarrollo (DX) y automati
 <br/>
 
 <a href="https://github.com/JNZader">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JNZader&theme=github_dark" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Javier's GitHub Stats" />
 </a>
 <a href="https://github.com/JNZader">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JNZader&theme=github_dark" alt="Repos per Language" />
-</a>
-<a href="https://github.com/JNZader">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JNZader&theme=github_dark" alt="Most Commit Language" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNZader&layout=pie&theme=github_dark_dimmed&hide_border=true&langs_count=6&title_color=58a6ff&text_color=c9d1d9" alt="Javier's Top Languages" />
 </a>
 
 <br/>
