@@ -195,6 +195,13 @@ Construyo herramientas para mejorar la experiencia de desarrollo (DX) y automati
 <div align="center">
 
 <a href="https://github.com/JNZader">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JNZader&theme=radical" alt="Javier's Profile Summary" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/JNZader">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Javier's GitHub Stats" />
 </a>
 <a href="https://github.com/JNZader">
