@@ -202,10 +202,10 @@ Construyo herramientas para mejorar la experiencia de desarrollo (DX) y automati
 <br/>
 
 <a href="https://github.com/JNZader">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Javier's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Javier's GitHub Stats" />
 </a>
 <a href="https://github.com/JNZader">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNZader&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Javier's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNZader&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6&title_color=58a6ff&text_color=c9d1d9" alt="Javier's Top Languages" />
 </a>
 
 <br/>
