@@ -195,7 +195,7 @@ Construyo herramientas para mejorar la experiencia de desarrollo (DX) y automati
 <div align="center">
 
 <a href="https://github.com/JNZader">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JNZader&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true" alt="Javier's Contribution Graph" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=JNZader&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </a>
 
 <br/>
@@ -213,6 +213,13 @@ Construyo herramientas para mejorar la experiencia de desarrollo (DX) y automati
 
 <a href="https://github.com/JNZader">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNZader&theme=radical&hide_border=true&background=0d1117&ring=0d1117&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=58a6ff" alt="Javier's GitHub Streak" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/JNZader">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JNZader&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true" alt="Javier's Contribution Graph" width="100%" />
 </a>
 
 </div>
