@@ -2,7 +2,7 @@
 
 # Javier Norberto Zader
 
-###  Full Stack Developer
+###  Full Stack Developer & AI Tools Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jnzader)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.javierzader.com/)
@@ -15,11 +15,11 @@
 
 ## Sobre mí
 
-**Actualmente:** Desarrollando APIs REST con Java/Spring Boot y aplicaciones full stack con Next.js  
+**Actualmente:** Construyendo herramientas de Developer Experience (DX), sistemas multi-agente de IA (GHAGGA) y arquitecturas escalables open-source.  
 **Estudiando:** Técnico en Desarrollo de Software (Universidad Gastón Dachary 2023-2025)  
 **Experiencia:** +20 años en tecnología, 11 años como productor agropecuario  
 **Certificaciones:** CCNA, Argentina Programa, Alura LATAM - Java Orientado a Objetos  
-**Especializado en:** Arquitectura en capas, principios SOLID, APIs REST, testing  
+**Especializado en:** Arquitectura en capas, principios SOLID, APIs REST, AI Engineering, testing  
 **Contacto:** [LinkedIn](https://linkedin.com/in/jnzader)
 
 ---
@@ -30,87 +30,87 @@
 <tr>
 <td align="center" width="50%">
 
-**Backend & Core**
-
-![Java](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_4.0-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Backend & Core**<br/>
+<br/>
+<img src="https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot_4.0-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 
 </td>
 <td align="center" width="50%">
 
-**Frontend & Web**
-
-![TypeScript](https://img.shields.io/badge/TypeScript_5.9-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_16-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Data Science & Python**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-</td>
-<td align="center">
-
-**Databases & ORM**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+**Frontend & Web**<br/>
+<br/>
+<img src="https://img.shields.io/badge/TypeScript_5.9-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js_16-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-**Testing**
-
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![axe-core](https://img.shields.io/badge/axe--core-663399?style=for-the-badge&logo=axe&logoColor=white)
+**Data Science & Python**<br/>
+<br/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 
 </td>
 <td align="center">
 
-**DevOps & CI/CD**
+**Databases & ORM**<br/>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL_17-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity"/>
 
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Testing**<br/>
+<br/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Library"/>
+<img src="https://img.shields.io/badge/axe--core-663399?style=for-the-badge&logo=axe&logoColor=white" alt="axe-core"/>
+
+</td>
+<td align="center">
+
+**DevOps & CI/CD**<br/>
+<br/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
 
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
 
-**Tools & Services**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000?style=for-the-badge&logo=resend&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+**Tools & Services**<br/>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white" alt="Biome"/>
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
+<img src="https://img.shields.io/badge/Resend-000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
 
 </td>
 </tr>
@@ -124,10 +124,10 @@
 
 Librería multi-módulo production-ready para construir APIs REST robustas. Solo agregás la dependencia y empezás a construir tu dominio — sin boilerplate.
 
-[![CI](https://github.com/jnzader/apigen/actions/workflows/ci.yml/badge.svg)](https://github.com/jnzader/apigen/actions/workflows/ci.yml) ![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_4.0-6DB33F?style=flat-square&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-316192?style=flat-square&logo=postgresql&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+[![CI](https://github.com/jnzader/apigen/actions/workflows/ci.yml/badge.svg)](https://github.com/jnzader/apigen/actions/workflows/ci.yml) <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot_4.0-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL_17-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 **Arquitectura Multi-Módulo:**
-```
+```text
 apigen/
 ├── apigen-core        → CRUD genérico, HATEOAS, filtering, cursor pagination
 ├── apigen-security    → JWT auth con refresh tokens, blacklisting, rate limiting
@@ -137,133 +137,58 @@ apigen/
 ```
 
 **Core Features:**
-- Generic CRUD Operations con clases base para entities, services, controllers y repositories
-- HATEOAS Support con respuestas hypermedia-driven out of the box
-- Soft Delete & Auditing con campos de auditoría automáticos
-- Dynamic Filtering con 12+ operadores (eq, neq, gt, gte, lt, lte, like, starts, ends, in, between, null, notnull)
-- Cursor Pagination para datasets grandes eficiente
-- ETag Caching con HTTP conditional requests y respuestas 304 automáticas
-- Optimistic Locking con If-Match headers y respuestas 412
-
-**Security Module:**
-- JWT Authentication completo con access/refresh tokens
-- Token blacklisting para logout seguro
-- Rate Limiting per-endpoint para autenticación
-- Spring Security 6.x integration
-
-**Auto-Generated Endpoints (12+):**
-| Method | Endpoint | Descripción |
-|--------|----------|-------------|
-| GET | `/api/{resource}` | Lista paginada con filtering |
-| GET | `/api/{resource}/{id}` | Single resource con ETag |
-| POST | `/api/{resource}` | Create con validación |
-| PUT | `/api/{resource}/{id}` | Full update con optimistic locking |
-| PATCH | `/api/{resource}/{id}` | Partial update |
-| DELETE | `/api/{resource}/{id}` | Soft delete |
-| DELETE | `/api/{resource}/{id}?permanent=true` | Hard delete |
-| POST | `/api/{resource}/{id}/restore` | Restore soft-deleted |
-| HEAD | `/api/{resource}` | Count |
-| HEAD | `/api/{resource}/{id}` | Exists check |
-| GET | `/api/{resource}/cursor` | Cursor-based pagination |
-
-**Code Generation:**
-- Genera estructura completa desde SQL schemas
-- Entity con JPA annotations extendiendo Base
-- DTO record con validación
-- MapStruct mapper
-- Repository interface
-- Service implementation
-- Controller con HATEOAS
-- ResourceAssembler
-
-**Developer Experience:**
-- Auto-Configuration con Spring Boot Starter pattern (zero-config setup)
-- Virtual Threads (Java 21+) para alta concurrencia
-- Swagger/OpenAPI documentation incluida
-- Soporte para H2 (dev) y PostgreSQL (prod)
+- Generic CRUD Operations con clases base para entities, services, controllers y repositories.
+- HATEOAS Support, Soft Delete & Auditing automático.
+- Dynamic Filtering (12+ operadores) y Cursor Pagination eficiente.
+- JWT Authentication completo, Token blacklisting y Rate Limiting.
+- Generación de código completa desde SQL (Entity, DTO, Mapper, Repo, Service, Controller).
 
 ---
 
 ### [Portfolio 2025](https://github.com/JNZader/portfolio-2025) | [javierzader.com](https://www.javierzader.com/)
 
-Portfolio profesional construido con el stack más moderno de 2025. Incluye blog completo, CMS headless, GitHub API integration, analytics avanzado, testing completo, y optimizaciones de nivel producción.
+Portfolio profesional construido con el stack más moderno de 2025. Incluye blog completo, CMS headless, optimizaciones de nivel producción y testing exhaustivo.
 
-[![CI](https://github.com/JNZader/portfolio-2025/actions/workflows/ci.yml/badge.svg)](https://github.com/JNZader/portfolio-2025/actions/workflows/ci.yml) [![Tests](https://github.com/JNZader/portfolio-2025/actions/workflows/test.yml/badge.svg)](https://github.com/JNZader/portfolio-2025/actions/workflows/test.yml) [![E2E](https://github.com/JNZader/portfolio-2025/actions/workflows/e2e.yml/badge.svg)](https://github.com/JNZader/portfolio-2025/actions/workflows/e2e.yml) [![Lighthouse](https://github.com/JNZader/portfolio-2025/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/JNZader/portfolio-2025/actions/workflows/lighthouse.yml) [![Security](https://github.com/JNZader/portfolio-2025/actions/workflows/security.yml/badge.svg)](https://github.com/JNZader/portfolio-2025/actions/workflows/security.yml)
+<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js" alt="Next.js"/> <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/TypeScript_5.9-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 
-![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript_5.9-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity)
-
-**Core Stack:**
-- Next.js 16 (App Router) + React 19 con React Compiler
-- TypeScript 5.9 strict mode + Tailwind CSS 4 (OKLCH color space)
-- Sanity CMS v4 para gestión de contenido headless
-- PostgreSQL (Supabase) + Prisma ORM + Upstash Redis
-
-**Blog System:**
-- Dual Content Format: Markdown (GFM) y Portable Text (editor visual)
-- Búsqueda full-text en tiempo real con debouncing y highlight de términos
-- Comentarios con Giscus (GitHub Discussions) con tema sincronizado
-- Table of Contents automático + Posts relacionados por categoría
-- Categorías con filtrado y colores personalizados
-- Syntax highlighting con Prism.js + Share buttons para redes sociales
-
-**Newsletter & Contact:**
-- Double opt-in con confirmación por email
-- Rate limiting con Upstash Redis
-- Email templates con React Email + Resend API
-- Formulario de contacto con validación Zod + honeypot anti-spam
-
-**GDPR & Privacy:**
-- Cookie consent banner con gestión granular
-- Data export: usuarios pueden exportar sus datos
-- Data deletion: solicitud de eliminación de datos
-- Consent tracking con Prisma
-
-**SEO & Analytics:**
-- Structured Data (Schema.org) + Open Graph + Twitter Cards
-- Dynamic OG Images generadas automáticamente
-- Google Analytics 4 + Vercel Analytics + Speed Insights
-- Web Vitals tracking (LCP, FID, CLS, INP, TTFB, FCP)
-- Sitemap automático + Robots.txt configurado
-
-**Accessibility (WCAG 2.1 AA):**
-- Skip links + Focus management con FocusTrap
-- Screen reader support con ARIA landmarks y announcements
-- Keyboard navigation completa
-- Touch targets 44x44px + Color contrast optimizado
-
-**Testing & Quality:**
-| Tipo | Herramienta | Cobertura |
-|------|-------------|-----------|
-| Unit/Integration | Vitest + Testing Library | 80%+ lines |
-| E2E | Playwright (multi-browser) | Flujos críticos |
-| Accessibility | axe-core | WCAG 2.1 AA |
-| Visual Regression | Playwright screenshots | Componentes clave |
-| Performance | Lighthouse CI | Budgets definidos |
-
-**CI/CD Pipeline (5 workflows):**
-- **CI:** Quality checks (Biome + TypeScript) + Build
-- **Tests:** Unit tests con coverage (Codecov)
-- **E2E:** Tests multi-browser (Chromium, Firefox, WebKit, Mobile)
-- **Lighthouse:** Performance audits con budgets
-- **Security:** CodeQL, dependency review, npm audit
-
-**Performance Optimizations:**
-- React Server Components + ISR (Incremental Static Regeneration)
-- Code splitting automático + Bundle analysis
-- Image optimization con blur placeholders + lazy loading
-- Multi-layer cache: memoria + CDN + browser
-- Third-party scripts con carga diferida
+- **Core Stack:** Next.js 16 (App Router) + React 19 (React Compiler), TypeScript estricto.
+- **Blog System:** Sanity CMS, Markdown (GFM), Búsqueda full-text en tiempo real.
+- **Calidad:** 5 workflows de CI/CD (Testing Library, Playwright E2E, Lighthouse, Seguridad).
+- **Performance:** React Server Components, ISR, Optimización de imágenes, WCAG 2.1 AA.
 
 ---
 
-### [AgentesIA](https://github.com/JNZader/AgentesIA)
+### [GHAGGA - AI-Powered Code Review](https://github.com/JNZader/ghagga)
 
-Experimentación con agentes de inteligencia artificial.
+Sistema de revisión de código multi-agente con Inteligencia Artificial. Disponible como SaaS, GitHub Action y CLI.
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
-- Arquitecturas de agentes inteligentes
-- Integración con modelos de lenguaje
+- **Análisis Estático Integral:** Integración con más de 12 herramientas de seguridad y calidad (Semgrep, Trivy, Gitleaks, PMD, Biome, Ruff).
+- **Health Scoring & SARIF:** Generación de reportes estandarizados y puntuación de salud del código.
+- **Automatización:** Plantilla `ghagga-runner` para correr análisis directamente en Pull Requests.
+
+---
+
+### [Consorcio Canalero 10 de Mayo - Bell Ville](https://github.com/JNZader/consorcio-canalero)
+
+Sistema integral de gestión real desarrollado para una entidad agrícola/gubernamental.
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+
+- **Monitoreo Satelital:** Herramientas de visualización y control geográfico.
+- **Gestión Administrativa:** Manejo interno para el consorcio.
+- **Reportes Ciudadanos:** Módulo de interacción para que los usuarios reporten problemas o estados de los canales.
+
+---
+
+### 🛠️ Developer Tools & AI Engineering
+
+Construyo herramientas para mejorar la experiencia de desarrollo (DX) y automatizar flujos de trabajo rigurosos con Inteligencia Artificial:
+
+- **[javi-dots](https://github.com/JNZader/javi-dots)**: CLI interactiva (TUI) construida en TypeScript para el setup y automatización de entornos de trabajo (Workstations) preparados para IA. <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+- **[md-evals](https://github.com/JNZader/md-evals)**: Herramienta CLI ligera en Python para evaluar habilidades de agentes IA (`SKILL.md`). Implementa testing riguroso de Control vs Tratamiento utilizando LiteLLM. <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+- **[Repoforge](https://github.com/JNZader/repoforge)**: Generador agnóstico de modelos para documentación técnica y perfiles de agentes IA (`SKILL.md`, `AGENT.md`), con soporte nativo para monorepos. <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
 
 ---
 
@@ -271,8 +196,8 @@ Experimentación con agentes de inteligencia artificial.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNZader&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JNZader&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNZader&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Langs"/>
 
 </div>
 
