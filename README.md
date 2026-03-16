@@ -111,6 +111,8 @@
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
 <img src="https://img.shields.io/badge/Resend-000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend"/>
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
+<img src="https://img.shields.io/badge/LiteLLM-1A1A1A?style=for-the-badge&logo=openai&logoColor=white" alt="LiteLLM"/>
+<img src="https://img.shields.io/badge/Semgrep-4B32C3?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep"/>
 
 </td>
 </tr>
