@@ -121,10 +121,9 @@
 ## Proyectos Destacados
 
 ### [APiGen - Spring Boot REST API Library](https://github.com/JNZader/apigen)
+[![CI](https://github.com/jnzader/apigen/actions/workflows/ci.yml/badge.svg)](https://github.com/jnzader/apigen/actions/workflows/ci.yml) <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot_4.0-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL_17-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 Librería multi-módulo production-ready para construir APIs REST robustas. Solo agregás la dependencia y empezás a construir tu dominio — sin boilerplate.
-
-[![CI](https://github.com/jnzader/apigen/actions/workflows/ci.yml/badge.svg)](https://github.com/jnzader/apigen/actions/workflows/ci.yml) <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot_4.0-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL_17-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 **Arquitectura Multi-Módulo:**
 ```text
@@ -146,10 +145,9 @@ apigen/
 ---
 
 ### [Portfolio 2025](https://github.com/JNZader/portfolio-2025) | [javierzader.com](https://www.javierzader.com/)
+<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js" alt="Next.js"/> <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/TypeScript_5.9-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 
 Portfolio profesional construido con el stack más moderno de 2025. Incluye blog completo, CMS headless, optimizaciones de nivel producción y testing exhaustivo.
-
-<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js" alt="Next.js"/> <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/TypeScript_5.9-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 
 - **Core Stack:** Next.js 16 (App Router) + React 19 (React Compiler), TypeScript estricto.
 - **Blog System:** Sanity CMS, Markdown (GFM), Búsqueda full-text en tiempo real.
@@ -159,10 +157,9 @@ Portfolio profesional construido con el stack más moderno de 2025. Incluye blog
 ---
 
 ### [GHAGGA - AI-Powered Code Review](https://github.com/JNZader/ghagga)
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
 Sistema de revisión de código multi-agente con Inteligencia Artificial. Disponible como SaaS, GitHub Action y CLI.
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
 - **Análisis Estático Integral:** Integración con más de 12 herramientas de seguridad y calidad (Semgrep, Trivy, Gitleaks, PMD, Biome, Ruff).
 - **Health Scoring & SARIF:** Generación de reportes estandarizados y puntuación de salud del código.
@@ -171,10 +168,9 @@ Sistema de revisión de código multi-agente con Inteligencia Artificial. Dispon
 ---
 
 ### [Consorcio Canalero 10 de Mayo - Bell Ville](https://github.com/JNZader/consorcio-canalero)
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
 
 Sistema integral de gestión real desarrollado para una entidad agrícola/gubernamental.
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
 
 - **Monitoreo Satelital:** Herramientas de visualización y control geográfico.
 - **Gestión Administrativa:** Manejo interno para el consorcio.
